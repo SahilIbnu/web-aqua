@@ -1,0 +1,232 @@
+
+
+body {
+    margin: 0;
+
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    height: 120px;
+   
+    background: #0047BA;
+}
+.head {
+    display: flex;
+    width: 984px;
+    height: 120px;
+   
+    background: #0047BA;
+
+}
+
+.h-logo {
+    width: 150px;
+    height: 99px;
+    
+    margin-left: 42px;
+    margin-top: 22px;
+}
+
+
+
+.br-logo {
+    width: 150px;
+    height: 67px;
+    
+}
+
+.lo-img {
+    width: 150px;
+    height: 50px;
+    margin-top: 15px;
+}
+
+.elem {
+    width: 790px;
+    height: 107px;
+   
+    mar
+
+}
+
+.aqua-img {
+    width: 750px;
+    height: 107px;
+    margin-top: 15px;
+    margin-left: 17px;
+}
+
+
+
+.middle {
+    display: flex;
+    width: 100%;
+    height: 700px;
+    
+    
+}
+
+.bg image {
+    width: 100%;
+    height: 700px;
+}
+.bg-image {
+    width: 100%;
+    height: 700px;
+}
+
+
+
+.bottle-img {
+    width: 697px;
+    height: 699px
+    
+}
+
+.bo-img {
+    width: 697px;
+    height: 699px;
+    margin-left: -1400px;
+}
+
+.logo {
+    width: 583px;
+    height: 268px;
+    
+    margin-left: -1376px;
+    margin-top: 164px;
+}
+
+.logo-blue {
+    width: 583px;
+    height: 201px;
+    
+}
+
+.logo-img {
+    width: 583px;
+    height: 201px;
+}
+
+.produ  {
+    display: flex;
+    justify-content: center;
+    width: 583px;
+    height: 63px;
+    
+    gap: 16px;
+}
+
+.op {
+    display: flex;
+    width: 193px;
+    height: 46px;
+    border: 1px solid #0047BA;
+    color:#0047BA;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+
+.pl {
+    display: flex;
+    width: 193px;
+    height: 46px;
+    border: 1px solid #0047BA;
+    color:#0047BA;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+footer {
+    width: 100%;
+    height: 289px;
+  
+    margin-top: 10px;
+}
+
+.bi-con {
+    width: 100%;
+    height: 256px;
+  
+}
+
+.sm-con {
+    width: 100%;
+    height: 33px;
+   
+}
+
+.elements {
+    display: flex;
+    width: 984px;
+    height: 126px;
+   
+    margin-top: 65px;
+    margin-left: 190px;
+}
+
+.el5 {
+    width: 199px;
+    height: 126px;
+   
+}
+
+.el4 {
+    width: 199px;
+    height: 101px;
+    
+}
+
+.ele-4 {
+    width: 199px;
+    height: 101px;
+    
+}
+
+
+
+#co5 {
+    width: 199px;
+    height: 25px;
+    font-size: 14px;
+    color:#0047BA;
+}
+
+#c04 {
+    width: 149px;
+    height: 25px;
+    font-size: 14px;
+    color:#0047BA;
+}
+
+#coele {
+    width: 149px;
+    height: 25px;
+    font-size: 14px;
+    color:#0047BA;
+}
+
+.el2 {
+    width: 145px;
+    height: 126px;
+   
+}
+
+.fti {
+    width: 97px;
+    height: 30px;
+}
+
+.blue {
+    width: 142px;
+    height: 63px;
+}
+.sm {
+    width: 100%;
+    height: 82px;
+    font-size: 11px;
+}
